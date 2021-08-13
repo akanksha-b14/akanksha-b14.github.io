@@ -134,7 +134,7 @@
     text-shadow: 0px 0px 0px #000 !important;
 }
 .tl-slide.tl-full-image-background a, .tl-slide.tl-full-color-background a, .tl-slide.tl-full-image-background b, .tl-slide.tl-full-color-background b, .tl-slide.tl-full-image-background i, .tl-slide.tl-full-color-background i, .tl-slide.tl-full-image-background blockquote, .tl-slide.tl-full-color-background blockquote, .tl-slide.tl-full-image-background blockquote p, .tl-slide.tl-full-color-background blockquote p {
-    text-shadow: 0px 0px 0px #000
+    text-shadow: 0px 0px 0px #000;
     color: #000;
 }
 .tl-slidenav-previous .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-icon, .tl-slidenav-next .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-icon, .tl-slidenav-previous .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-title, .tl-slidenav-next .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-title, .tl-slidenav-previous .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-description, .tl-slidenav-next .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-description {
